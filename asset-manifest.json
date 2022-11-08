@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://farooqproprogrammer.github.io/csb-q6lnyc/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://farooqproprogrammer.github.io/csb-q6lnyc/static/js/main.d963f1ae.chunk.js",
+    "main.js.map": "https://farooqproprogrammer.github.io/csb-q6lnyc/static/js/main.d963f1ae.chunk.js.map",
+    "runtime-main.js": "https://farooqproprogrammer.github.io/csb-q6lnyc/static/js/runtime-main.e2bfafc7.js",
+    "runtime-main.js.map": "https://farooqproprogrammer.github.io/csb-q6lnyc/static/js/runtime-main.e2bfafc7.js.map",
+    "static/js/2.39afac8f.chunk.js": "https://farooqproprogrammer.github.io/csb-q6lnyc/static/js/2.39afac8f.chunk.js",
+    "static/js/2.39afac8f.chunk.js.map": "https://farooqproprogrammer.github.io/csb-q6lnyc/static/js/2.39afac8f.chunk.js.map",
+    "index.html": "https://farooqproprogrammer.github.io/csb-q6lnyc/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://farooqproprogrammer.github.io/csb-q6lnyc/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.39afac8f.chunk.js.LICENSE.txt": "https://farooqproprogrammer.github.io/csb-q6lnyc/static/js/2.39afac8f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2bfafc7.js",
+    "static/js/2.39afac8f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.d963f1ae.chunk.js"
+  ]
+}
